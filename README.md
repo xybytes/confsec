@@ -12,7 +12,7 @@
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 24 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
-| [RomHack]([https://defcon.org](https://romhack.io/)) | Rome, Italy | | September 28 2024 |
+| [RomHack](https://romhack.io/)| Rome, Italy | | September 28 2024 |
 
 ## In 2023
 
