@@ -14,10 +14,8 @@
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 24 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
 | [RomHack](https://romhack.io/)| Rome, Italy | | September 28 2024 |
-
-
-
-## In 2023
+| [44Con](https://44con.com/)| London, UK | | ? |
+| [Hack In The Box (HITB)](https://conference.hitb.org/)|YAS ISLAND ABU DHABI, UAE| | May 14-16 2024 |
 
 ### CFP still open  - ordered by *CFP date*
 
